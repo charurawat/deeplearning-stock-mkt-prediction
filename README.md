@@ -7,3 +7,9 @@ different parameters and architectures and conclude that best accuracy is given 
 Gradient Descent Optimizer and a ReLU activation function. We compare the models built on neural networks to our
 baseline models built using kNN and SVM and find that the FFNN model scores higher on accuracy compared to the baseline
 models.
+
+Motivation behind this project was to -
+* Understand how to execute deep learning algorithms
+* Understand the model architectures and dynamics of over/underfitting while tuning parameters
+* Develop a model which performs better than baseline models built using ML alorithms
+
